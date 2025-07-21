@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this framework in your research or teaching, please cite it as below."
+title: "Raymond's Modular Estimation Framework"
+authors:
+  - family-names: Wiafe
+    given-names: Raymond Kojo
+    affiliation: "Independent Researcher, Accra, Ghana"
+    email: blank52821@gmail.com
+date-released: 2025-07-21
+version: "1.0.0"
+doi: "10.5281/zenodo.1234567"  # Placeholder—can be updated if published via Zenodo
+license: MIT
+url: "https://github.com/raymondwiafe/Modular-Estimation-Framework"
+repository-code: "https://github.com/raymondwiafe/Modular-Estimation-Framework"
+preferred-citation:
+  type: article
+  title: "Raymond's Modular Estimation Framework: Rhythm-Based Computation and the Dual Alignment Theorem"
+  authors:
+    - family-names: Wiafe
+      given-names: Raymond Kojo
+  year: 2025
+  publisher: "Self-published"
+  url: "https://github.com/raymondwiafe/Modular-Estimation-Framework/blob/main/Raymonds_Modular_Estimation_Framework.pdf"
