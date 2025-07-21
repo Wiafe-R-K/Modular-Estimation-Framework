@@ -8,6 +8,9 @@ Raymonds Modular Estimation Framework.pdf
 A full theoretical and empirical breakdown of the framework, including the Dual Alignment Theorem,
 mathematical proofs, and its mapping to the Four Noble Truths of Modular Alignment.
 📖 Whitepaper — [Raymond’s Modular Estimation Framework.docx](./Raymond’s Modular Estimation Framework.docx)  
+📄 **Whitepaper Access Notice**  
+Due to current GitHub limitations, large documents like the whitepaper cannot be previewed directly.  
+Please [download the file here](./Raymonds_Modular_Estimation_Framework.pdf) to view it offline.
 
 
 🧾 Citation
